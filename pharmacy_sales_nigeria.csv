@@ -1,0 +1,171 @@
+transaction_id,date,drug_name,drug_category,brand_generic,quantity_sold,unit_price_naira,total_revenue_naira,supplier,expiry_date,stock_before,stock_after,patient_age_group,patient_gender,prescription_required,payment_method,pharmacist_on_duty,branch_location,days_to_expiry,reorder_level_met
+TXN001,2024-01-02,Amoxicillin 500mg,Antibiotic,Generic,3,450,1350,Emzor Pharma,2025-06-30,120,117,Adult,Female,Yes,Cash,Adaeze Obi,Lagos-Ikeja,545,Yes
+TXN002,2024-01-02,Paracetamol 500mg,Analgesic,Generic,10,80,800,May & Baker,2025-12-31,500,490,Child,Male,No,Cash,Adaeze Obi,Lagos-Ikeja,730,Yes
+TXN003,2024-01-02,Metformin 500mg,Antidiabetic,Generic,30,120,3600,Fidson,2025-09-15,200,170,Elderly,Female,Yes,POS,Adaeze Obi,Lagos-Ikeja,623,Yes
+TXN004,2024-01-03,Lisinopril 10mg,Antihypertensive,Generic,30,200,6000,Greenlife,2025-08-20,150,120,Elderly,Male,Yes,Transfer,Chidi Eze,Lagos-Ikeja,597,Yes
+TXN005,2024-01-03,Coartem 80/480mg,Antimalarial,Brand,6,2500,15000,Novartis,2025-03-10,60,54,Adult,Female,Yes,Cash,Chidi Eze,Lagos-Ikeja,434,No
+TXN006,2024-01-03,Vitamin C 500mg,Supplement,Generic,5,150,750,Emzor Pharma,2026-01-01,300,295,Adult,Male,No,Cash,Chidi Eze,Lagos-Ikeja,731,Yes
+TXN007,2024-01-04,Amoxicillin 500mg,Antibiotic,Generic,6,450,2700,Emzor Pharma,2025-06-30,117,111,Child,Female,Yes,Cash,Adaeze Obi,Lagos-Ikeja,543,Yes
+TXN008,2024-01-04,Omeprazole 20mg,Antacid,Generic,14,180,2520,May & Baker,2025-11-20,100,86,Adult,Male,Yes,POS,Adaeze Obi,Lagos-Ikeja,690,Yes
+TXN009,2024-01-05,Artemether 80mg,Antimalarial,Generic,3,1800,5400,Fidson,2025-04-15,45,42,Adult,Female,Yes,Cash,Chidi Eze,Lagos-Ikeja,470,No
+TXN010,2024-01-05,Multivitamin Syrup,Supplement,Brand,2,1200,2400,GlaxoSmithKline,2025-10-01,80,78,Child,Male,No,Cash,Chidi Eze,Lagos-Ikeja,639,Yes
+TXN011,2024-01-06,Metronidazole 400mg,Antibiotic,Generic,21,100,2100,Emzor Pharma,2025-07-20,200,179,Adult,Female,Yes,Cash,Adaeze Obi,Lagos-Ikeja,566,Yes
+TXN012,2024-01-06,Amlodipine 5mg,Antihypertensive,Generic,30,160,4800,Greenlife,2025-09-30,100,70,Elderly,Male,Yes,Transfer,Adaeze Obi,Lagos-Ikeja,637,Yes
+TXN013,2024-01-07,Diclofenac 50mg,Analgesic,Generic,10,120,1200,May & Baker,2025-08-15,150,140,Adult,Male,No,Cash,Chidi Eze,Lagos-Ikeja,592,Yes
+TXN014,2024-01-07,Coartem 80/480mg,Antimalarial,Brand,6,2500,15000,Novartis,2025-03-10,54,48,Child,Female,Yes,POS,Chidi Eze,Lagos-Ikeja,432,No
+TXN015,2024-01-08,Insulin Glargine,Antidiabetic,Brand,1,8500,8500,Sanofi,2024-12-31,20,19,Elderly,Male,Yes,Transfer,Adaeze Obi,Lagos-Ikeja,358,No
+TXN016,2024-01-08,Paracetamol 500mg,Analgesic,Generic,20,80,1600,May & Baker,2025-12-31,490,470,Child,Female,No,Cash,Adaeze Obi,Lagos-Ikeja,727,Yes
+TXN017,2024-01-09,Ciprofloxacin 500mg,Antibiotic,Generic,14,350,4900,Fidson,2025-05-20,80,66,Adult,Male,Yes,Cash,Chidi Eze,Lagos-Ikeja,505,Yes
+TXN018,2024-01-09,Atorvastatin 20mg,Antilipidemic,Generic,30,280,8400,Emzor Pharma,2025-10-15,90,60,Elderly,Female,Yes,POS,Chidi Eze,Lagos-Ikeja,653,Yes
+TXN019,2024-01-10,Oral Rehydration Salt,Supplement,Generic,5,200,1000,May & Baker,2026-03-01,200,195,Child,Male,No,Cash,Adaeze Obi,Lagos-Ikeja,791,Yes
+TXN020,2024-01-10,Amoxicillin 500mg,Antibiotic,Generic,9,450,4050,Emzor Pharma,2025-06-30,111,102,Adult,Female,Yes,Cash,Adaeze Obi,Lagos-Ikeja,537,Yes
+TXN021,2024-01-11,Metformin 500mg,Antidiabetic,Generic,60,120,7200,Fidson,2025-09-15,170,110,Elderly,Male,Yes,Transfer,Chidi Eze,Lagos-Ikeja,618,Yes
+TXN022,2024-01-11,Ibuprofen 400mg,Analgesic,Generic,15,100,1500,May & Baker,2025-11-30,200,185,Adult,Female,No,Cash,Chidi Eze,Lagos-Ikeja,699,Yes
+TXN023,2024-01-12,Doxycycline 100mg,Antibiotic,Generic,14,300,4200,Emzor Pharma,2025-06-01,70,56,Adult,Male,Yes,Cash,Adaeze Obi,Lagos-Ikeja,517,Yes
+TXN024,2024-01-12,Amlodipine 5mg,Antihypertensive,Generic,30,160,4800,Greenlife,2025-09-30,70,40,Elderly,Female,Yes,POS,Adaeze Obi,Lagos-Ikeja,630,No
+TXN025,2024-01-13,Coartem 80/480mg,Antimalarial,Brand,12,2500,30000,Novartis,2025-03-10,48,36,Adult,Male,Yes,Transfer,Chidi Eze,Lagos-Ikeja,427,No
+TXN026,2024-01-13,Zinc Sulfate 20mg,Supplement,Generic,10,90,900,May & Baker,2026-01-15,150,140,Child,Female,No,Cash,Chidi Eze,Lagos-Ikeja,745,Yes
+TXN027,2024-01-14,Lisinopril 10mg,Antihypertensive,Generic,30,200,6000,Greenlife,2025-08-20,120,90,Elderly,Male,Yes,Cash,Adaeze Obi,Lagos-Ikeja,583,Yes
+TXN028,2024-01-14,Paracetamol Syrup,Analgesic,Generic,3,350,1050,Emzor Pharma,2025-10-20,100,97,Child,Female,No,Cash,Adaeze Obi,Lagos-Ikeja,658,Yes
+TXN029,2024-01-15,Omeprazole 20mg,Antacid,Generic,28,180,5040,May & Baker,2025-11-20,86,58,Adult,Male,Yes,POS,Chidi Eze,Lagos-Ikeja,684,Yes
+TXN030,2024-01-15,Vitamin B Complex,Supplement,Generic,5,250,1250,Fidson,2025-12-01,180,175,Adult,Female,No,Cash,Chidi Eze,Lagos-Ikeja,720,Yes
+TXN031,2024-01-16,Artemether 80mg,Antimalarial,Generic,6,1800,10800,Fidson,2025-04-15,42,36,Child,Male,Yes,Cash,Adaeze Obi,Lagos-Ikeja,455,No
+TXN032,2024-01-16,Metronidazole 400mg,Antibiotic,Generic,14,100,1400,Emzor Pharma,2025-07-20,179,165,Adult,Female,Yes,Cash,Adaeze Obi,Lagos-Ikeja,551,Yes
+TXN033,2024-01-17,Insulin Glargine,Antidiabetic,Brand,2,8500,17000,Sanofi,2024-12-31,19,17,Elderly,Male,Yes,Transfer,Chidi Eze,Lagos-Ikeja,350,No
+TXN034,2024-01-17,Ciprofloxacin 500mg,Antibiotic,Generic,10,350,3500,Fidson,2025-05-20,66,56,Adult,Female,Yes,Cash,Chidi Eze,Lagos-Ikeja,489,Yes
+TXN035,2024-01-18,Diclofenac 50mg,Analgesic,Generic,20,120,2400,May & Baker,2025-08-15,140,120,Adult,Male,No,POS,Adaeze Obi,Lagos-Ikeja,574,Yes
+TXN036,2024-01-18,Atorvastatin 20mg,Antilipidemic,Generic,30,280,8400,Emzor Pharma,2025-10-15,60,30,Elderly,Female,Yes,Transfer,Adaeze Obi,Lagos-Ikeja,637,No
+TXN037,2024-01-19,Amoxicillin 500mg,Antibiotic,Generic,12,450,5400,Emzor Pharma,2025-06-30,102,90,Adult,Male,Yes,Cash,Chidi Eze,Lagos-Ikeja,527,Yes
+TXN038,2024-01-19,Coartem 80/480mg,Antimalarial,Brand,6,2500,15000,Novartis,2025-03-10,36,30,Child,Female,Yes,Cash,Chidi Eze,Lagos-Ikeja,416,No
+TXN039,2024-01-20,Paracetamol 500mg,Analgesic,Generic,30,80,2400,May & Baker,2025-12-31,470,440,Adult,Female,No,Cash,Adaeze Obi,Lagos-Ikeja,715,Yes
+TXN040,2024-01-20,Metformin 500mg,Antidiabetic,Generic,30,120,3600,Fidson,2025-09-15,110,80,Elderly,Male,Yes,POS,Adaeze Obi,Lagos-Ikeja,604,Yes
+TXN041,2024-02-01,Amoxicillin 500mg,Antibiotic,Generic,9,450,4050,Emzor Pharma,2025-06-30,150,141,Adult,Female,Yes,Cash,Adaeze Obi,Lagos-Ikeja,515,Yes
+TXN042,2024-02-01,Paracetamol 500mg,Analgesic,Generic,15,80,1200,May & Baker,2025-12-31,440,425,Child,Male,No,Cash,Adaeze Obi,Lagos-Ikeja,700,Yes
+TXN043,2024-02-02,Lisinopril 10mg,Antihypertensive,Generic,30,200,6000,Greenlife,2025-08-20,90,60,Elderly,Female,Yes,Transfer,Chidi Eze,Lagos-Ikeja,565,Yes
+TXN044,2024-02-02,Coartem 80/480mg,Antimalarial,Brand,6,2500,15000,Novartis,2025-03-10,30,24,Adult,Male,Yes,Cash,Chidi Eze,Lagos-Ikeja,397,No
+TXN045,2024-02-03,Omeprazole 20mg,Antacid,Generic,14,180,2520,May & Baker,2025-11-20,58,44,Adult,Female,Yes,POS,Adaeze Obi,Lagos-Ikeja,660,Yes
+TXN046,2024-02-03,Vitamin C 500mg,Supplement,Generic,10,150,1500,Emzor Pharma,2026-01-01,295,285,Adult,Male,No,Cash,Adaeze Obi,Lagos-Ikeja,667,Yes
+TXN047,2024-02-04,Metronidazole 400mg,Antibiotic,Generic,21,100,2100,Emzor Pharma,2025-07-20,165,144,Adult,Female,Yes,Cash,Chidi Eze,Lagos-Ikeja,531,Yes
+TXN048,2024-02-04,Amlodipine 5mg,Antihypertensive,Generic,30,160,4800,Greenlife,2025-09-30,100,70,Elderly,Male,Yes,Transfer,Chidi Eze,Lagos-Ikeja,608,Yes
+TXN049,2024-02-05,Artemether 80mg,Antimalarial,Generic,3,1800,5400,Fidson,2025-04-15,36,33,Child,Female,Yes,Cash,Adaeze Obi,Lagos-Ikeja,435,No
+TXN050,2024-02-05,Ibuprofen 400mg,Analgesic,Generic,10,100,1000,May & Baker,2025-11-30,185,175,Adult,Male,No,Cash,Adaeze Obi,Lagos-Ikeja,664,Yes
+TXN051,2024-02-06,Ciprofloxacin 500mg,Antibiotic,Generic,14,350,4900,Fidson,2025-05-20,56,42,Adult,Female,Yes,Cash,Chidi Eze,Lagos-Ikeja,469,Yes
+TXN052,2024-02-06,Insulin Glargine,Antidiabetic,Brand,1,8500,8500,Sanofi,2024-12-31,17,16,Elderly,Male,Yes,Transfer,Chidi Eze,Lagos-Ikeja,330,No
+TXN053,2024-02-07,Doxycycline 100mg,Antibiotic,Generic,14,300,4200,Emzor Pharma,2025-06-01,56,42,Adult,Female,Yes,Cash,Adaeze Obi,Lagos-Ikeja,479,Yes
+TXN054,2024-02-07,Atorvastatin 20mg,Antilipidemic,Generic,30,280,8400,Emzor Pharma,2025-10-15,100,70,Elderly,Male,Yes,POS,Adaeze Obi,Lagos-Ikeja,617,Yes
+TXN055,2024-02-08,Paracetamol 500mg,Analgesic,Generic,25,80,2000,May & Baker,2025-12-31,425,400,Child,Female,No,Cash,Chidi Eze,Lagos-Ikeja,693,Yes
+TXN056,2024-02-08,Coartem 80/480mg,Antimalarial,Brand,12,2500,30000,Novartis,2025-03-10,24,12,Adult,Male,Yes,Transfer,Chidi Eze,Lagos-Ikeja,391,No
+TXN057,2024-02-09,Metformin 500mg,Antidiabetic,Generic,60,120,7200,Fidson,2025-09-15,200,140,Elderly,Female,Yes,Cash,Adaeze Obi,Lagos-Ikeja,588,Yes
+TXN058,2024-02-09,Oral Rehydration Salt,Supplement,Generic,8,200,1600,May & Baker,2026-03-01,195,187,Child,Male,No,Cash,Adaeze Obi,Lagos-Ikeja,752,Yes
+TXN059,2024-02-10,Amoxicillin 500mg,Antibiotic,Generic,6,450,2700,Emzor Pharma,2025-06-30,141,135,Adult,Female,Yes,POS,Chidi Eze,Lagos-Ikeja,506,Yes
+TXN060,2024-02-10,Diclofenac 50mg,Analgesic,Generic,15,120,1800,May & Baker,2025-08-15,120,105,Adult,Male,No,Cash,Chidi Eze,Lagos-Ikeja,552,Yes
+TXN061,2024-03-01,Paracetamol 500mg,Analgesic,Generic,20,80,1600,May & Baker,2025-12-31,400,380,Adult,Female,No,Cash,Adaeze Obi,Lagos-Ikeja,671,Yes
+TXN062,2024-03-01,Amoxicillin 500mg,Antibiotic,Generic,9,450,4050,Emzor Pharma,2025-06-30,135,126,Child,Male,Yes,Cash,Adaeze Obi,Lagos-Ikeja,487,Yes
+TXN063,2024-03-02,Coartem 80/480mg,Antimalarial,Brand,18,2500,45000,Novartis,2025-03-10,12,0,Adult,Female,Yes,POS,Chidi Eze,Lagos-Ikeja,373,No
+TXN064,2024-03-02,Lisinopril 10mg,Antihypertensive,Generic,30,200,6000,Greenlife,2025-08-20,60,30,Elderly,Male,Yes,Transfer,Chidi Eze,Lagos-Ikeja,536,No
+TXN065,2024-03-03,Artemether 80mg,Antimalarial,Generic,6,1800,10800,Fidson,2025-04-15,33,27,Adult,Female,Yes,Cash,Adaeze Obi,Lagos-Ikeja,408,No
+TXN066,2024-03-03,Vitamin B Complex,Supplement,Generic,10,250,2500,Fidson,2025-12-01,175,165,Adult,Male,No,Cash,Adaeze Obi,Lagos-Ikeja,643,Yes
+TXN067,2024-03-04,Metformin 500mg,Antidiabetic,Generic,30,120,3600,Fidson,2025-09-15,140,110,Elderly,Female,Yes,Cash,Chidi Eze,Lagos-Ikeja,560,Yes
+TXN068,2024-03-04,Omeprazole 20mg,Antacid,Generic,14,180,2520,May & Baker,2025-11-20,44,30,Adult,Male,Yes,POS,Chidi Eze,Lagos-Ikeja,631,Yes
+TXN069,2024-03-05,Ciprofloxacin 500mg,Antibiotic,Generic,10,350,3500,Fidson,2025-05-20,42,32,Adult,Female,Yes,Cash,Adaeze Obi,Lagos-Ikeja,441,Yes
+TXN070,2024-03-05,Paracetamol Syrup,Analgesic,Generic,5,350,1750,Emzor Pharma,2025-10-20,97,92,Child,Male,No,Cash,Adaeze Obi,Lagos-Ikeja,599,Yes
+TXN071,2024-03-06,Amlodipine 5mg,Antihypertensive,Generic,30,160,4800,Greenlife,2025-09-30,150,120,Elderly,Female,Yes,Transfer,Chidi Eze,Lagos-Ikeja,574,Yes
+TXN072,2024-03-06,Insulin Glargine,Antidiabetic,Brand,2,8500,17000,Sanofi,2025-06-30,20,18,Elderly,Male,Yes,Transfer,Chidi Eze,Lagos-Ikeja,482,Yes
+TXN073,2024-03-07,Ibuprofen 400mg,Analgesic,Generic,20,100,2000,May & Baker,2025-11-30,175,155,Adult,Female,No,Cash,Adaeze Obi,Lagos-Ikeja,634,Yes
+TXN074,2024-03-07,Doxycycline 100mg,Antibiotic,Generic,14,300,4200,Emzor Pharma,2025-06-01,42,28,Adult,Male,Yes,Cash,Adaeze Obi,Lagos-Ikeja,452,Yes
+TXN075,2024-03-08,Atorvastatin 20mg,Antilipidemic,Generic,30,280,8400,Emzor Pharma,2025-10-15,70,40,Elderly,Female,Yes,POS,Chidi Eze,Lagos-Ikeja,587,No
+TXN076,2024-03-08,Amoxicillin 500mg,Antibiotic,Generic,12,450,5400,Emzor Pharma,2025-06-30,126,114,Adult,Male,Yes,Cash,Chidi Eze,Lagos-Ikeja,479,Yes
+TXN077,2024-03-09,Metronidazole 400mg,Antibiotic,Generic,14,100,1400,Emzor Pharma,2025-07-20,200,186,Adult,Female,Yes,Cash,Adaeze Obi,Lagos-Ikeja,498,Yes
+TXN078,2024-03-09,Zinc Sulfate 20mg,Supplement,Generic,15,90,1350,May & Baker,2026-01-15,140,125,Child,Male,No,Cash,Adaeze Obi,Lagos-Ikeja,682,Yes
+TXN079,2024-03-10,Coartem 80/480mg,Antimalarial,Brand,6,2700,16200,Novartis,2026-03-10,50,44,Adult,Female,Yes,Cash,Chidi Eze,Lagos-Ikeja,731,Yes
+TXN080,2024-03-10,Paracetamol 500mg,Analgesic,Generic,30,80,2400,May & Baker,2025-12-31,380,350,Child,Male,No,POS,Chidi Eze,Lagos-Ikeja,661,Yes
+TXN081,2024-04-01,Amoxicillin 500mg,Antibiotic,Generic,6,450,2700,Emzor Pharma,2025-06-30,200,194,Adult,Female,Yes,Cash,Adaeze Obi,Lagos-Ikeja,456,Yes
+TXN082,2024-04-01,Artemether 80mg,Antimalarial,Generic,9,1800,16200,Fidson,2025-04-15,100,91,Adult,Male,Yes,Cash,Adaeze Obi,Lagos-Ikeja,380,No
+TXN083,2024-04-02,Metformin 500mg,Antidiabetic,Generic,30,120,3600,Fidson,2025-09-15,200,170,Elderly,Female,Yes,Transfer,Chidi Eze,Lagos-Ikeja,531,Yes
+TXN084,2024-04-02,Lisinopril 10mg,Antihypertensive,Generic,60,200,12000,Greenlife,2025-08-20,100,40,Elderly,Male,Yes,Transfer,Chidi Eze,Lagos-Ikeja,506,No
+TXN085,2024-04-03,Paracetamol 500mg,Analgesic,Generic,20,80,1600,May & Baker,2025-12-31,350,330,Adult,Female,No,Cash,Adaeze Obi,Lagos-Ikeja,638,Yes
+TXN086,2024-04-03,Omeprazole 20mg,Antacid,Generic,14,180,2520,May & Baker,2025-11-20,100,86,Adult,Male,Yes,POS,Adaeze Obi,Lagos-Ikeja,597,Yes
+TXN087,2024-04-04,Ciprofloxacin 500mg,Antibiotic,Generic,14,350,4900,Fidson,2025-05-20,32,18,Adult,Female,Yes,Cash,Chidi Eze,Lagos-Ikeja,412,No
+TXN088,2024-04-04,Coartem 80/480mg,Antimalarial,Brand,6,2700,16200,Novartis,2026-03-10,44,38,Child,Male,Yes,Cash,Chidi Eze,Lagos-Ikeja,706,Yes
+TXN089,2024-04-05,Amlodipine 5mg,Antihypertensive,Generic,30,160,4800,Greenlife,2025-09-30,120,90,Elderly,Female,Yes,Transfer,Adaeze Obi,Lagos-Ikeja,544,Yes
+TXN090,2024-04-05,Vitamin C 500mg,Supplement,Generic,5,150,750,Emzor Pharma,2026-01-01,285,280,Adult,Male,No,Cash,Adaeze Obi,Lagos-Ikeja,636,Yes
+TXN091,2024-05-01,Paracetamol 500mg,Analgesic,Generic,25,80,2000,May & Baker,2025-12-31,330,305,Adult,Female,No,Cash,Adaeze Obi,Lagos-Ikeja,610,Yes
+TXN092,2024-05-01,Amoxicillin 500mg,Antibiotic,Generic,9,450,4050,Emzor Pharma,2025-06-30,194,185,Child,Male,Yes,Cash,Adaeze Obi,Lagos-Ikeja,426,Yes
+TXN093,2024-05-02,Artemether 80mg,Antimalarial,Generic,12,1800,21600,Fidson,2025-10-15,150,138,Adult,Female,Yes,Cash,Chidi Eze,Lagos-Ikeja,532,Yes
+TXN094,2024-05-02,Metformin 500mg,Antidiabetic,Generic,60,120,7200,Fidson,2025-09-15,170,110,Elderly,Male,Yes,Transfer,Chidi Eze,Lagos-Ikeja,502,Yes
+TXN095,2024-05-03,Coartem 80/480mg,Antimalarial,Brand,12,2700,32400,Novartis,2026-03-10,38,26,Adult,Female,Yes,POS,Adaeze Obi,Lagos-Ikeja,677,Yes
+TXN096,2024-05-03,Lisinopril 10mg,Antihypertensive,Generic,30,200,6000,Greenlife,2025-08-20,150,120,Elderly,Male,Yes,Transfer,Adaeze Obi,Lagos-Ikeja,474,Yes
+TXN097,2024-05-04,Ibuprofen 400mg,Analgesic,Generic,10,100,1000,May & Baker,2025-11-30,200,190,Adult,Female,No,Cash,Chidi Eze,Lagos-Ikeja,575,Yes
+TXN098,2024-05-04,Omeprazole 20mg,Antacid,Generic,28,180,5040,May & Baker,2025-11-20,86,58,Adult,Male,Yes,Cash,Chidi Eze,Lagos-Ikeja,565,Yes
+TXN099,2024-05-05,Doxycycline 100mg,Antibiotic,Generic,14,300,4200,Emzor Pharma,2025-06-01,100,86,Adult,Female,Yes,Cash,Adaeze Obi,Lagos-Ikeja,393,Yes
+TXN100,2024-05-05,Atorvastatin 20mg,Antilipidemic,Generic,30,280,8400,Emzor Pharma,2025-10-15,100,70,Elderly,Male,Yes,POS,Adaeze Obi,Lagos-Ikeja,529,Yes
+TXN101,2024-06-01,Artemether 80mg,Antimalarial,Generic,15,1800,27000,Fidson,2025-10-15,138,123,Adult,Female,Yes,Cash,Adaeze Obi,Lagos-Ikeja,472,Yes
+TXN102,2024-06-01,Coartem 80/480mg,Antimalarial,Brand,18,2700,48600,Novartis,2026-03-10,26,8,Adult,Male,Yes,Transfer,Adaeze Obi,Lagos-Ikeja,648,No
+TXN103,2024-06-02,Paracetamol 500mg,Analgesic,Generic,30,80,2400,May & Baker,2025-12-31,305,275,Child,Female,No,Cash,Chidi Eze,Lagos-Ikeja,578,Yes
+TXN104,2024-06-02,Amoxicillin 500mg,Antibiotic,Generic,12,450,5400,Emzor Pharma,2025-12-30,200,188,Adult,Male,Yes,Cash,Chidi Eze,Lagos-Ikeja,577,Yes
+TXN105,2024-06-03,Metformin 500mg,Antidiabetic,Generic,30,120,3600,Fidson,2025-09-15,200,170,Elderly,Female,Yes,Transfer,Adaeze Obi,Lagos-Ikeja,470,Yes
+TXN106,2024-06-03,Lisinopril 10mg,Antihypertensive,Generic,30,200,6000,Greenlife,2025-08-20,120,90,Elderly,Male,Yes,POS,Adaeze Obi,Lagos-Ikeja,443,Yes
+TXN107,2024-06-04,Ciprofloxacin 500mg,Antibiotic,Generic,10,350,3500,Fidson,2025-12-20,100,90,Adult,Female,Yes,Cash,Chidi Eze,Lagos-Ikeja,564,Yes
+TXN108,2024-06-04,Amlodipine 5mg,Antihypertensive,Generic,30,160,4800,Greenlife,2025-09-30,150,120,Elderly,Male,Yes,Transfer,Chidi Eze,Lagos-Ikeja,483,Yes
+TXN109,2024-06-05,Vitamin C 500mg,Supplement,Generic,10,150,1500,Emzor Pharma,2026-01-01,280,270,Adult,Female,No,Cash,Adaeze Obi,Lagos-Ikeja,575,Yes
+TXN110,2024-06-05,Omeprazole 20mg,Antacid,Generic,14,180,2520,May & Baker,2025-11-20,58,44,Adult,Male,Yes,Cash,Adaeze Obi,Lagos-Ikeja,534,Yes
+TXN111,2024-07-01,Coartem 80/480mg,Antimalarial,Brand,24,2700,64800,Novartis,2026-03-10,100,76,Adult,Female,Yes,Cash,Chidi Eze,Lagos-Ikeja,618,Yes
+TXN112,2024-07-01,Artemether 80mg,Antimalarial,Generic,18,1800,32400,Fidson,2025-10-15,123,105,Adult,Male,Yes,Cash,Chidi Eze,Lagos-Ikeja,441,Yes
+TXN113,2024-07-02,Paracetamol 500mg,Analgesic,Generic,35,80,2800,May & Baker,2025-12-31,275,240,Child,Female,No,Cash,Adaeze Obi,Lagos-Ikeja,548,Yes
+TXN114,2024-07-02,Metformin 500mg,Antidiabetic,Generic,60,120,7200,Fidson,2025-09-15,200,140,Elderly,Male,Yes,Transfer,Adaeze Obi,Lagos-Ikeja,440,Yes
+TXN115,2024-07-03,Amoxicillin 500mg,Antibiotic,Generic,15,450,6750,Emzor Pharma,2025-12-30,188,173,Adult,Female,Yes,Cash,Chidi Eze,Lagos-Ikeja,546,Yes
+TXN116,2024-07-03,Lisinopril 10mg,Antihypertensive,Generic,30,200,6000,Greenlife,2026-08-20,200,170,Elderly,Male,Yes,Transfer,Chidi Eze,Lagos-Ikeja,779,Yes
+TXN117,2024-07-04,Ibuprofen 400mg,Analgesic,Generic,15,100,1500,May & Baker,2025-11-30,190,175,Adult,Female,No,Cash,Adaeze Obi,Lagos-Ikeja,514,Yes
+TXN118,2024-07-04,Omeprazole 20mg,Antacid,Generic,14,180,2520,May & Baker,2025-11-20,100,86,Adult,Male,Yes,POS,Adaeze Obi,Lagos-Ikeja,504,Yes
+TXN119,2024-07-05,Atorvastatin 20mg,Antilipidemic,Generic,30,280,8400,Emzor Pharma,2025-10-15,100,70,Elderly,Female,Yes,Cash,Chidi Eze,Lagos-Ikeja,467,Yes
+TXN120,2024-07-05,Amlodipine 5mg,Antihypertensive,Generic,30,160,4800,Greenlife,2025-09-30,200,170,Elderly,Male,Yes,Transfer,Chidi Eze,Lagos-Ikeja,452,Yes
+TXN121,2024-08-01,Coartem 80/480mg,Antimalarial,Brand,30,2700,81000,Novartis,2026-03-10,200,170,Adult,Female,Yes,Cash,Adaeze Obi,Lagos-Ikeja,587,Yes
+TXN122,2024-08-01,Artemether 80mg,Antimalarial,Generic,24,1800,43200,Fidson,2025-10-15,105,81,Adult,Male,Yes,Cash,Adaeze Obi,Lagos-Ikeja,410,Yes
+TXN123,2024-08-02,Paracetamol 500mg,Analgesic,Generic,40,80,3200,May & Baker,2025-12-31,240,200,Child,Female,No,Cash,Chidi Eze,Lagos-Ikeja,517,Yes
+TXN124,2024-08-02,Amoxicillin 500mg,Antibiotic,Generic,18,450,8100,Emzor Pharma,2025-12-30,200,182,Adult,Male,Yes,Cash,Chidi Eze,Lagos-Ikeja,515,Yes
+TXN125,2024-08-03,Metformin 500mg,Antidiabetic,Generic,30,120,3600,Fidson,2026-09-15,200,170,Elderly,Female,Yes,Transfer,Adaeze Obi,Lagos-Ikeja,775,Yes
+TXN126,2024-08-03,Lisinopril 10mg,Antihypertensive,Generic,30,200,6000,Greenlife,2026-08-20,170,140,Elderly,Male,Yes,POS,Adaeze Obi,Lagos-Ikeja,748,Yes
+TXN127,2024-08-04,Doxycycline 100mg,Antibiotic,Generic,14,300,4200,Emzor Pharma,2026-06-01,150,136,Adult,Female,Yes,Cash,Chidi Eze,Lagos-Ikeja,669,Yes
+TXN128,2024-08-04,Omeprazole 20mg,Antacid,Generic,28,180,5040,May & Baker,2025-11-20,86,58,Adult,Male,Yes,Cash,Chidi Eze,Lagos-Ikeja,473,Yes
+TXN129,2024-08-05,Ciprofloxacin 500mg,Antibiotic,Generic,14,350,4900,Fidson,2025-12-20,90,76,Adult,Female,Yes,Cash,Adaeze Obi,Lagos-Ikeja,472,Yes
+TXN130,2024-08-05,Atorvastatin 20mg,Antilipidemic,Generic,30,280,8400,Emzor Pharma,2025-10-15,70,40,Elderly,Male,Yes,Transfer,Adaeze Obi,Lagos-Ikeja,436,No
+TXN131,2024-09-01,Coartem 80/480mg,Antimalarial,Brand,36,2700,97200,Novartis,2026-03-10,200,164,Adult,Female,Yes,Cash,Chidi Eze,Lagos-Ikeja,556,Yes
+TXN132,2024-09-01,Artemether 80mg,Antimalarial,Generic,30,1800,54000,Fidson,2026-10-15,200,170,Adult,Male,Yes,Cash,Chidi Eze,Lagos-Ikeja,745,Yes
+TXN133,2024-09-02,Paracetamol 500mg,Analgesic,Generic,50,80,4000,May & Baker,2025-12-31,200,150,Child,Female,No,Cash,Adaeze Obi,Lagos-Ikeja,486,Yes
+TXN134,2024-09-02,Amoxicillin 500mg,Antibiotic,Generic,15,450,6750,Emzor Pharma,2025-12-30,182,167,Adult,Male,Yes,POS,Adaeze Obi,Lagos-Ikeja,484,Yes
+TXN135,2024-09-03,Metformin 500mg,Antidiabetic,Generic,60,120,7200,Fidson,2026-09-15,200,140,Elderly,Female,Yes,Transfer,Chidi Eze,Lagos-Ikeja,744,Yes
+TXN136,2024-09-03,Lisinopril 10mg,Antihypertensive,Generic,30,200,6000,Greenlife,2026-08-20,140,110,Elderly,Male,Yes,Transfer,Chidi Eze,Lagos-Ikeja,717,Yes
+TXN137,2024-09-04,Amlodipine 5mg,Antihypertensive,Generic,30,160,4800,Greenlife,2026-09-30,200,170,Elderly,Female,Yes,Cash,Adaeze Obi,Lagos-Ikeja,756,Yes
+TXN138,2024-09-04,Ibuprofen 400mg,Analgesic,Generic,20,100,2000,May & Baker,2025-11-30,175,155,Adult,Male,No,Cash,Adaeze Obi,Lagos-Ikeja,452,Yes
+TXN139,2024-09-05,Omeprazole 20mg,Antacid,Generic,14,180,2520,May & Baker,2026-11-20,200,186,Adult,Female,Yes,POS,Chidi Eze,Lagos-Ikeja,776,Yes
+TXN140,2024-09-05,Vitamin C 500mg,Supplement,Generic,15,150,2250,Emzor Pharma,2026-01-01,270,255,Adult,Male,No,Cash,Chidi Eze,Lagos-Ikeja,483,Yes
+TXN141,2024-10-01,Coartem 80/480mg,Antimalarial,Brand,30,2700,81000,Novartis,2026-03-10,200,170,Adult,Female,Yes,Cash,Adaeze Obi,Lagos-Ikeja,525,Yes
+TXN142,2024-10-01,Artemether 80mg,Antimalarial,Generic,24,1800,43200,Fidson,2026-10-15,200,176,Adult,Male,Yes,Cash,Adaeze Obi,Lagos-Ikeja,714,Yes
+TXN143,2024-10-02,Paracetamol 500mg,Analgesic,Generic,40,80,3200,May & Baker,2025-12-31,150,110,Child,Female,No,Cash,Chidi Eze,Lagos-Ikeja,455,Yes
+TXN144,2024-10-02,Amoxicillin 500mg,Antibiotic,Generic,12,450,5400,Emzor Pharma,2025-12-30,167,155,Adult,Male,Yes,Cash,Chidi Eze,Lagos-Ikeja,453,Yes
+TXN145,2024-10-03,Metformin 500mg,Antidiabetic,Generic,30,120,3600,Fidson,2026-09-15,200,170,Elderly,Female,Yes,Transfer,Adaeze Obi,Lagos-Ikeja,713,Yes
+TXN146,2024-10-03,Atorvastatin 20mg,Antilipidemic,Generic,30,280,8400,Emzor Pharma,2026-10-15,150,120,Elderly,Male,Yes,POS,Adaeze Obi,Lagos-Ikeja,715,Yes
+TXN147,2024-10-04,Ciprofloxacin 500mg,Antibiotic,Generic,14,350,4900,Fidson,2025-12-20,76,62,Adult,Female,Yes,Cash,Chidi Eze,Lagos-Ikeja,412,Yes
+TXN148,2024-10-04,Lisinopril 10mg,Antihypertensive,Generic,30,200,6000,Greenlife,2026-08-20,110,80,Elderly,Male,Yes,Transfer,Chidi Eze,Lagos-Ikeja,655,Yes
+TXN149,2024-10-05,Omeprazole 20mg,Antacid,Generic,14,180,2520,May & Baker,2026-11-20,186,172,Adult,Female,Yes,Cash,Adaeze Obi,Lagos-Ikeja,746,Yes
+TXN150,2024-10-05,Doxycycline 100mg,Antibiotic,Generic,14,300,4200,Emzor Pharma,2026-06-01,136,122,Adult,Male,Yes,Cash,Adaeze Obi,Lagos-Ikeja,604,Yes
+TXN151,2024-11-01,Coartem 80/480mg,Antimalarial,Brand,24,2700,64800,Novartis,2026-03-10,170,146,Adult,Female,Yes,Cash,Chidi Eze,Lagos-Ikeja,494,Yes
+TXN152,2024-11-01,Artemether 80mg,Antimalarial,Generic,18,1800,32400,Fidson,2026-10-15,176,158,Adult,Male,Yes,Cash,Chidi Eze,Lagos-Ikeja,683,Yes
+TXN153,2024-11-02,Paracetamol 500mg,Analgesic,Generic,30,80,2400,May & Baker,2025-12-31,110,80,Child,Female,No,Cash,Adaeze Obi,Lagos-Ikeja,424,Yes
+TXN154,2024-11-02,Amoxicillin 500mg,Antibiotic,Generic,9,450,4050,Emzor Pharma,2025-12-30,155,146,Adult,Male,Yes,POS,Adaeze Obi,Lagos-Ikeja,422,Yes
+TXN155,2024-11-03,Metformin 500mg,Antidiabetic,Generic,60,120,7200,Fidson,2026-09-15,200,140,Elderly,Female,Yes,Transfer,Chidi Eze,Lagos-Ikeja,682,Yes
+TXN156,2024-11-03,Lisinopril 10mg,Antihypertensive,Generic,30,200,6000,Greenlife,2026-08-20,200,170,Elderly,Male,Yes,Transfer,Chidi Eze,Lagos-Ikeja,624,Yes
+TXN157,2024-11-04,Amlodipine 5mg,Antihypertensive,Generic,30,160,4800,Greenlife,2026-09-30,200,170,Elderly,Female,Yes,Cash,Adaeze Obi,Lagos-Ikeja,695,Yes
+TXN158,2024-11-04,Vitamin B Complex,Supplement,Generic,10,250,2500,Fidson,2025-12-01,165,155,Adult,Male,No,Cash,Adaeze Obi,Lagos-Ikeja,393,Yes
+TXN159,2024-11-05,Atorvastatin 20mg,Antilipidemic,Generic,30,280,8400,Emzor Pharma,2026-10-15,200,170,Elderly,Female,Yes,POS,Chidi Eze,Lagos-Ikeja,684,Yes
+TXN160,2024-11-05,Omeprazole 20mg,Antacid,Generic,28,180,5040,May & Baker,2026-11-20,172,144,Adult,Male,Yes,Cash,Chidi Eze,Lagos-Ikeja,715,Yes
+TXN161,2024-12-01,Coartem 80/480mg,Antimalarial,Brand,18,2700,48600,Novartis,2026-03-10,146,128,Adult,Female,Yes,Cash,Adaeze Obi,Lagos-Ikeja,464,Yes
+TXN162,2024-12-01,Artemether 80mg,Antimalarial,Generic,15,1800,27000,Fidson,2026-10-15,200,185,Adult,Male,Yes,Cash,Adaeze Obi,Lagos-Ikeja,652,Yes
+TXN163,2024-12-02,Paracetamol 500mg,Analgesic,Generic,50,80,4000,May & Baker,2026-12-31,200,150,Child,Female,No,Cash,Chidi Eze,Lagos-Ikeja,760,Yes
+TXN164,2024-12-02,Amoxicillin 500mg,Antibiotic,Generic,15,450,6750,Emzor Pharma,2025-12-30,200,185,Adult,Male,Yes,Cash,Chidi Eze,Lagos-Ikeja,393,Yes
+TXN165,2024-12-03,Metformin 500mg,Antidiabetic,Generic,30,120,3600,Fidson,2026-09-15,200,170,Elderly,Female,Yes,Transfer,Adaeze Obi,Lagos-Ikeja,651,Yes
+TXN166,2024-12-03,Lisinopril 10mg,Antihypertensive,Generic,30,200,6000,Greenlife,2026-08-20,170,140,Elderly,Male,Yes,POS,Adaeze Obi,Lagos-Ikeja,594,Yes
+TXN167,2024-12-04,Ciprofloxacin 500mg,Antibiotic,Generic,14,350,4900,Fidson,2025-12-20,62,48,Adult,Female,Yes,Cash,Chidi Eze,Lagos-Ikeja,381,Yes
+TXN168,2024-12-04,Amlodipine 5mg,Antihypertensive,Generic,30,160,4800,Greenlife,2026-09-30,200,170,Elderly,Male,Yes,Transfer,Chidi Eze,Lagos-Ikeja,664,Yes
+TXN169,2024-12-05,Atorvastatin 20mg,Antilipidemic,Generic,30,280,8400,Emzor Pharma,2026-10-15,200,170,Elderly,Female,Yes,Cash,Adaeze Obi,Lagos-Ikeja,653,Yes
+TXN170,2024-12-05,Omeprazole 20mg,Antacid,Generic,14,180,2520,May & Baker,2026-11-20,144,130,Adult,Male,Yes,Cash,Adaeze Obi,Lagos-Ikeja,684,Yes
